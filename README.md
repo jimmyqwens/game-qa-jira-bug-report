@@ -21,6 +21,12 @@ view-only Google Drive link:
  (This issue occurred once during extended playtesting and could not be
 consistently reproduced.)
 
+## 🛠 Tools & Methods
+- JIRA-style bug reporting
+- Manual gameplay testing
+- Video capture for defect evidence
+- Google Drive (view-only evidence sharing)
+
 
 ## Notes
 Gameplay footage was captured during a personal playtest session and is included solely
