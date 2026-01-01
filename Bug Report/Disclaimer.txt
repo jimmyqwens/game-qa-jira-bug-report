@@ -1,0 +1,19 @@
+DISCLAIMER
+
+This repository is part of a personal QA portfolio created for educational and
+demonstration purposes only.
+
+All game footage, screenshots, and references included in this repository were
+captured during a legitimate playtest session. The content is used solely to
+demonstrate quality assurance skills such as bug identification, documentation,
+and reporting.
+
+No claim of ownership is made over the game, its assets, characters, or
+intellectual property. All rights remain with their respective owners and
+developers.
+
+This material is not intended for commercial use, redistribution, or
+misrepresentation of the original product.
+
+If you are a rights holder and believe any content should be removed, please
+contact me and I will promptly comply.
