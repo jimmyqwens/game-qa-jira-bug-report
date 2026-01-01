@@ -11,6 +11,17 @@ does not take damage when hit by the player.
 - Supporting screenshots
 - Short gameplay video demonstrating the issue
 
+## 🎥 Video Evidence
+
+A short video clip demonstrating the reported issue is available via a
+view-only Google Drive link:
+
+🔗 Video Link: https://drive.google.com/file/d/1avazac1ir5h1rJwnJrgZW9hBwI9eLiaD/view?usp=sharing
+
+ (This issue occurred once during extended playtesting and could not be
+consistently reproduced.)
+
+
 ## Notes
 Gameplay footage was captured during a personal playtest session and is included solely
 for educational and portfolio demonstration purposes. No claim of ownership is made over
